@@ -20,3 +20,6 @@ This project helped me:
 Practice using React hooks (useState, useCallback, useEffect, and useRef).
 Build a functional and interactive password generator.
 Gain experience in building React apps with dynamic and user-driven content.
+
+
+![Screenshot 2024-11-29 203251](https://github.com/user-attachments/assets/aa58f1dd-34c9-44b4-b4f9-af85f9e664a3)
